@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview of UFOs analysis
-The purpose of the UFOs analysis was to develop a webpage that displays journalistic content about UFOs and data gathered from reports of UFO sightings. The webpage contains an interactive, dynamic table where visitors can learn in-depth information about UFO sightings that is customized to their interests. Visitors will be able to filter the table for multiple search criteria at the same time, which will then display the records of data that pertain to their interests.
+The purpose of the UFOs analysis was to develop a webpage that displays journalistic content about UFOs and data gathered from reports of UFO sightings. The webpage contains an interactive, dynamic table where visitors can learn in-depth information about UFO sightings. Visitors will be able to filter the table for multiple search criteria at the same time, which will then display the records of data that pertain to their interests.
 
 ## Resources
 - Data Sources: data.js
