@@ -28,19 +28,19 @@ The user can filter the table to examine data on UFO sightings after entering th
      
       ![image](https://user-images.githubusercontent.com/85533099/139600666-44c75a3d-f421-4d8b-a39d-4d8c395ebaa6.png)
     
-  - Second in the "Enter Date" field, type "1/4/2010":
+  - Second, in the "Enter Date" field, the user will type "1/4/2010":
     
       ![image](https://user-images.githubusercontent.com/85533099/139600720-477b5f8c-5142-4c37-a6f6-47033e5f31b7.png)
       
-  - Third, press the "Enter" button, and the table will filter to show all UFO sightings with a date of "1/4/2010":
+  - Third, the user will press the "Enter" button, and the table will filter to show all UFO sightings with a date of "1/4/2010":
 
       ![image](https://user-images.githubusercontent.com/85533099/139600784-4699c6eb-e443-4431-8dff-0bd0bbf93023.png)
       
-  - Fourth, in the "Enter State" field, type "tx":
+  - Fourth, in the "Enter State" field, the user will type "tx":
   
       ![image](https://user-images.githubusercontent.com/85533099/139600866-0069ad36-9a87-4c14-90c6-f6e48797b343.png)
       
-  - Fifth, press the "Enter" button and the table will filter again to show all UFO sightings with a date of "1/4/2010" and the state of "tx"
+  - Fifth, the user will press the "Enter" button and the table will filter again to show all UFO sightings with a date of "1/4/2010" and the state of "tx"
     
       ![image](https://user-images.githubusercontent.com/85533099/139600907-77a46ccf-67a1-49e9-91cc-2cd977803938.png)
 
