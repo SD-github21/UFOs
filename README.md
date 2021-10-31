@@ -23,12 +23,12 @@ The user will view the following images when they first visit the webpage, where
 ### Conducting a customized search for UFO sightings from the data table 
 
 The user can filter the table to examine data on UFO sightings after entering their search criteria of interest. The following steps depict the process to search for all UFO sightings on 01/04/2010 in the state of Texas:
- 
-    - First, before typing anything, the user will see default "placeholders" in all of the search criteria boxes. These placeholders will prompt the user to know how to enter data into the fields so that they can choose their criteria of interest:
-    - 
+
+  - First, before typing anything, the user will see default "placeholders" in all of the search criteria boxes. These placeholders will prompt the user to know how to enter data into the fields so that they can choose their criteria of interest:
+     
       ![image](https://user-images.githubusercontent.com/85533099/139600666-44c75a3d-f421-4d8b-a39d-4d8c395ebaa6.png)
     
-    - Second in the "Enter Date" field, type "1/4/2010":
+  - Second in the "Enter Date" field, type "1/4/2010":
     
       ![image](https://user-images.githubusercontent.com/85533099/139600720-477b5f8c-5142-4c37-a6f6-47033e5f31b7.png)
       
