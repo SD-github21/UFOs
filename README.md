@@ -23,43 +23,23 @@ Below is a detailed description of how users can utilize this webpage and conduc
   - Next the user can filter the table to examine data on UFO sightings after entering their search criteria of interest. The following steps depict the process to search for all UFO sightings on 01/04/2010 in the state of Texas:
  
     - First, before typing anything, the user will see default "placeholders" in all of the search criteria boxes. These placeholders will prompt the user to know how to enter data into the fields so that they can choose their criteria of interest:
+    - 
+      ![image](https://user-images.githubusercontent.com/85533099/139600666-44c75a3d-f421-4d8b-a39d-4d8c395ebaa6.png)
     
-   ![image](https://user-images.githubusercontent.com/85533099/139600666-44c75a3d-f421-4d8b-a39d-4d8c395ebaa6.png)
-
-    - Second, in the "Enter Date" field, type "1/4/2010":
+    - Second in the "Enter Date" field, type "1/4/2010":
     
-    ![image](https://user-images.githubusercontent.com/85533099/139600720-477b5f8c-5142-4c37-a6f6-47033e5f31b7.png)
-    
+      ![image](https://user-images.githubusercontent.com/85533099/139600720-477b5f8c-5142-4c37-a6f6-47033e5f31b7.png)
+      
     - Third, press the "Enter" button, and the table will filter to show all UFO sightings with a date of "1/4/2010":
-    
-    ![image](https://user-images.githubusercontent.com/85533099/139600784-4699c6eb-e443-4431-8dff-0bd0bbf93023.png)
 
+      ![image](https://user-images.githubusercontent.com/85533099/139600784-4699c6eb-e443-4431-8dff-0bd0bbf93023.png)
+      
     - Fourth, in the "Enter State" field, type "tx":
-    
-    ![image](https://user-images.githubusercontent.com/85533099/139600866-0069ad36-9a87-4c14-90c6-f6e48797b343.png)
-
+  
+      ![image](https://user-images.githubusercontent.com/85533099/139600866-0069ad36-9a87-4c14-90c6-f6e48797b343.png)
+      
     - Fifth, press the "Enter" button and the table will filter again to show all UFO sightings with a date of "1/4/2010" and the state of "tx"
     
     ![image](https://user-images.githubusercontent.com/85533099/139600907-77a46ccf-67a1-49e9-91cc-2cd977803938.png)
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-  - A web app was built to develop an automated program that would scrape these data each time it is run.
-  - The web app was updated to ensure it is mobile-responsive and included a few key features to enhance its appearance and appeal:
-    - A color design scheme incorporating Mars' reddish tint was developed and implemented to provide aesthetic interest to the webpage (e.g., borders around images, background banners of color)
-    - Font styling using bold, underline, and italics was added to key headers to help demarcate the various sections of the website
-    - The four hemispheres of Mars were converted to thumbnail images with shadow backgrounds so that users can click to view the hemispheres' full-size images
-    - A music feature was added to the top of the webpage so that users can have a unique multi-sensory experience of viewing beautiful images of Mars, learning important news and facts about Mars, and listening to the incredibly powerful and inspiring first orchestral movement of Gustav Holst's "The Planets", entitled "Mars, the Bringer of War", which celebrates Mars in all its glory   
 
 
