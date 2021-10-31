@@ -24,7 +24,7 @@ The user will view the following images when they first visit the webpage, where
 
 The user can filter the table to examine data on UFO sightings after entering their search criteria of interest. The following example depicts the process to search for all UFO sightings on 01/04/2010 in the state of Texas:
 
-  - First, before typing anything, the user will see default "placeholders" in all of the search criteria boxes. These placeholders will prompt the user to know how to enter data into the fields so that they can choose their criteria of interest:
+  - First, before typing anything, the user will see default "placeholders" in all of the search criteria boxes. These placeholders will prompt the user to know the format of how to enter data into the fields so that they can choose their criteria of interest:
      
       ![image](https://user-images.githubusercontent.com/85533099/139600666-44c75a3d-f421-4d8b-a39d-4d8c395ebaa6.png)
     
