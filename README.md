@@ -10,9 +10,9 @@ The purpose of the UFOs analysis was to develop a webpage that displays journali
 
 ## Results
 
-Below is a detailed description of how users can utilize this webpage and conduct a search to analyze data for UFO sightings:
+### The UFOs webpage
 
-  - First, the user will view the following images when they first visit the webpage, where they will be able to read the featured article and see a table full of data on UFO sightings:
+The user will view the following images when they first visit the webpage, where they will be able to read the featured article and see a table full of data on UFO sightings:
 
   ![image](https://user-images.githubusercontent.com/85533099/139600293-0fc3f67e-46ce-4db6-a109-174d1ca92e67.png)
   
@@ -20,7 +20,9 @@ Below is a detailed description of how users can utilize this webpage and conduc
   
   ![image](https://user-images.githubusercontent.com/85533099/139600314-e227e643-a26e-4af6-bb6e-f3d5abccd06e.png)
 
-  - Next the user can filter the table to examine data on UFO sightings after entering their search criteria of interest. The following steps depict the process to search for all UFO sightings on 01/04/2010 in the state of Texas:
+### Conducting a customized search for UFO sightings from the data table 
+
+The user can filter the table to examine data on UFO sightings after entering their search criteria of interest. The following steps depict the process to search for all UFO sightings on 01/04/2010 in the state of Texas:
  
     - First, before typing anything, the user will see default "placeholders" in all of the search criteria boxes. These placeholders will prompt the user to know how to enter data into the fields so that they can choose their criteria of interest:
     - 
@@ -40,6 +42,8 @@ Below is a detailed description of how users can utilize this webpage and conduc
       
     - Fifth, press the "Enter" button and the table will filter again to show all UFO sightings with a date of "1/4/2010" and the state of "tx"
     
-    ![image](https://user-images.githubusercontent.com/85533099/139600907-77a46ccf-67a1-49e9-91cc-2cd977803938.png)
+      ![image](https://user-images.githubusercontent.com/85533099/139600907-77a46ccf-67a1-49e9-91cc-2cd977803938.png)
 
+## Summary
 
+The UFOs webpage successfully provides an interactive, user-driven experience for visitors to learn more about UFO sightings based on multiple search criteria of interest. However this webpage also has some drawbacks to its design, such as lacking easy built-in features for the user to better control how the search is conducted and the data are displayed. One recommendation would be to add a button that the user can click to refresh the webpage after a search versus having to refresh the webpage manually at the top of the web browser. Another recommendation would be to add a button at the end of the search criteria boxes where the user can enter the data they wish to view and click a button for all of the search criteria to be returned at once, versus having the data returned after each individual change in the search criteria boxes. By adding these buttons, a user may find the webpage to be more "user-friendly" and the process of conducting the search can flow more effortlessly. 
